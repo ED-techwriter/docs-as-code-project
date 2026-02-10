@@ -1,1 +1,2 @@
-Краткое описание проекта, его назначение и основные возможности.
+## Documentation
+This documentation is maintained using the Docs as Code approach.
