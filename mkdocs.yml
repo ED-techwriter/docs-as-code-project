@@ -1,0 +1,7 @@
+site_name: My Project Docs
+docs_dir: docs
+nav:
+  - Home: README.md
+  - Installation: installation.md
+  - API Reference:
+      - Reference: api/reference.md
